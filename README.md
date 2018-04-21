@@ -1,5 +1,8 @@
 # eureka
 
+[![Docker Automated build](https://img.shields.io/docker/automated/bschalme/eureka-server.svg?style=flat-square)](https://hub.docker.com/r/bschalme/eureka-server/builds/)
+[![Image Size](https://images.microbadger.com/badges/image/bschalme/eureka-server.svg)](https://microbadger.com/images/bschalme/eureka-server)
+
 This is a Docker-ized version of [Spring Cloud Eureka](https://cloud.spring.io/spring-cloud-static/spring-cloud-netflix/1.4.4.RELEASE/multi/multi_spring-cloud-eureka-server.html) server.
 
 Build it just like any other Gradle app:
